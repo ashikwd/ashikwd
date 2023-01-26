@@ -1,5 +1,5 @@
-### Hi there 👋, My name is Ashikuzzaman
-#### Web Developer
+## Hi there 👋, ## My name is Ashikuzzaman
+### Web Developer
 ![Web Developer](https://media.licdn.com/dms/image/D5616AQHUp8hdwrqz5A/profile-displaybackgroundimage-shrink_350_1400/0/1672231958145?e=1680134400&v=beta&t=us9cKfet2R5yv5Cb6XGG6LH-vneDuywUOswgYaGqjsA)
 
 I am a digital marketer and Social Media Manager with over 1 years of experience in the industry.
