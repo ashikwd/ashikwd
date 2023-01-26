@@ -7,14 +7,7 @@ I have helped businesses and individuals grow their online presence through stra
 
 Specialties:
 +Web Design & Development
-+ Graphics Design
-+ Digital marketing
-+ B2B Lead Generation
-+ SEO & SEM
-+ Data Analysis
-+ Email marketing
-+ PPC & Social Media Strategies
-+ Storytelling
+
 
 Social Media: Facebook, Twitter, LinkedIn, Youtube, Instagram, Pinterest, Snapchat.
 
@@ -22,7 +15,7 @@ I value integrity, empathy, and grit and strive to live those values every day.
 
 Feel like chatting? Contact me anytime.
 
-Skills:  HTML / CSS/BOOTSTRAP/JQUREY
+Skills:  HTML / CSS / BOOTSTRAP / JQUREY
 
 - 🔭 I’m currently working on coading 
 - 🌱 I’m currently learning PHP 
