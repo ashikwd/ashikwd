@@ -29,9 +29,7 @@ Skills:  HTML / CSS / BOOTSTRAP / JQUREY
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashikwd)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikwd)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashikwd&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashikwd)  
 
